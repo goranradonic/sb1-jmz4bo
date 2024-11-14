@@ -1,0 +1,10 @@
+{
+  "welcome": "Welcome",
+  "posts": "Posts",
+  "createPost": "Create Post",
+  "title": "Title",
+  "content": "Content",
+  "submit": "Submit",
+  "loading": "Loading...",
+  "error": "Error occurred"
+}

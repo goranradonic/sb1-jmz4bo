@@ -1,0 +1,10 @@
+{
+  "welcome": "Dobrodošli",
+  "posts": "Objave",
+  "createPost": "Kreiraj Objavu",
+  "title": "Naslov",
+  "content": "Sadržaj",
+  "submit": "Potvrdi",
+  "loading": "Učitavanje...",
+  "error": "Došlo je do greške"
+}
